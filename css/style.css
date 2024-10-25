@@ -17,7 +17,7 @@ main {
 }
 
 /* CSS Specificity */
-h2 {
+.title {
   color: blue;
 }
 
